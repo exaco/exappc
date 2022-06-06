@@ -6,7 +6,7 @@ It is the first large-scale paraphrase dataset in Persian that can be used to tr
 The advantages of this corpus compared to the existing ones are the number of pair sentences, sentence Length variation and textual diversity, including formal and dialogue sentences.
 
 ## Data
-Format of data is as follows:
+Format of data is as follows and delimited by tab:
 
 sentence1, sentence2, label(paraphrase, non-paraphrase), manner(Human-Annotation, Semi-Automatically)
 
