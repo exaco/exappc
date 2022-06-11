@@ -10,6 +10,35 @@ Format of data is as follows and delimited by tab:
 
 sentence1, sentence2, label(paraphrase, non-paraphrase), manner(Human-Annotation, Semi-Automatically)
 
+Statistics of ExaPPC by number of sentence pairs and tokens are as below:
+
+<table>
+  <tr>
+    <th>Dataset</th>
+    <th>ExaPPC</th>
+  </tr>
+  <tr>
+    <td>Size(sentence pairs)</td>
+    <td>2,342,145</td>
+  </tr>
+  <tr>
+    <td>Size(tokens)</td>
+    <td>102,149,576</td>
+  </tr>
+  <tr>
+    <td>Average sentence length</td>
+    <td>22</td>
+  </tr>
+  <tr>
+    <td>Distribution</td>
+    <td>Total paraphrase: 986k/Total non-paraphrase: 1.3 M</td>
+  </tr>
+  <tr>
+    <td>Number of labels</td>
+    <td>2(Paraphrase, Non-paraphrase)</td>
+  </tr>
+</table>
+
 ## Results
 Our results suggest that ExaPPC will be helpful in a variety of NLP applications like paraphrase detection task.
 
